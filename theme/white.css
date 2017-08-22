@@ -107,6 +107,10 @@ body {
 .reveal em {
   font-style: italic; }
 
+.reveal li {
+  font-size: 0.75em; 
+}
+
 .reveal ol,
 .reveal dl,
 .reveal ul {
